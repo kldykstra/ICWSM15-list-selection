@@ -1,5 +1,6 @@
 Code for greedily selecting lists by density and evaluating selections 
-against ground truth lists in a user's ego network. More information can be found in:
+against ground truth lists in a user's ego network. More information 
+can be found in:
 
 Covering the Egonet: A Crowdsourcing Approach to Social Circle Discovery 
 on Twitter. K. Dykstra, J. Lijffijt, A. Gionis (2015) International 
