@@ -1,4 +1,4 @@
-""" this code implements greedy list selection 
+""" greedily select lists by density in friendship or colisted graph 
 """
 from collections import OrderedDict
 import argparse

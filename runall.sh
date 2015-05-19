@@ -28,6 +28,6 @@ do
     else
         fopt="a"
     fi
-    python evaluateCirclePredictions.py $datadir$u".lists" $resdir$u.$graphtype.$denstype.lists -o $evalfile -fopt $fopt
+    python evaluate.py $datadir$u".lists" $resdir$u.$graphtype.$denstype.lists -o $evalfile -fopt $fopt
     ((c++))
 done <$userfile
