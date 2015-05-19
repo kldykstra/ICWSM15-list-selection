@@ -3,7 +3,7 @@ against ground truth lists in a user's ego network. More information
 can be found in:
 
 Covering the Egonet: A Crowdsourcing Approach to Social Circle Discovery 
-on Twitter. K. Dykstra, J. Lijffijt, A. Gionis (2015) International 
+on Twitter. K. Dykstra, J. Lijffijt, A. Gionis (2015) International AAAI
 Conference on Web and Social Media.
 
 A toy example session is given for user "test" in runall.sh. For every ego
